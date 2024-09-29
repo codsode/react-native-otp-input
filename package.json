@@ -1,0 +1,53 @@
+{
+  "name": "@codsod/react-native-otp-input",
+  "version": "1.0.0",
+  "description": "A customizable OTP input component for React Native with TypeScript support, enabling seamless user authentication with flexible input handling and cross-platform compatibility.",
+  "type": "module",
+  "main": "src/index.jsx",
+  "types": "src/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codsode/react-native-otp-input.git"
+  },
+  "keywords": [
+    "otp",
+    "input",
+    "component",
+    "react-native",
+    "authentication",
+    "typescript",
+    "react",
+    "mobile",
+    "ui",
+    "one-time password",
+    "user input",
+    "secure",
+    "cross-platform",
+    "form",
+    "customizable",
+    "password",
+    "input field",
+    "mobile security",
+    "npm",
+    "library"
+  ],
+  "author": "codsod ( Vishal Chaturvedi )",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codsode/react-native-otp-input/issues"
+  },
+  "homepage": "https://github.com/codsode/react-native-otp-input#readme",
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-native": "^0.73.0",
+    "react": "^18.3.1",
+    "react-native": "^0.75.1",
+    "typescript": "^5.5.4"
+  }
+}
