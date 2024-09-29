@@ -1,5 +1,7 @@
 # @codsod/react-native-otp-input
 
+[<img src="https://github.com/codsode/react-native-otp-input/blob/master/images/react-native-otp-input.png">](https://github.com/codsode/react-native-otp-input/blob/master/images/react-native-otp-input.png)
+
 A customizable OTP input component for React Native, designed to simplify user authentication through one-time passwords. This package offers an intuitive interface and flexible functionality, making it ideal for mobile applications.
 
 ## Features
